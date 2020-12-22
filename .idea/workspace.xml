@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec036e58-e152-44e7-847c-7480b69a8761" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lFOssAO7D8qUb9ogh50vDBqWmz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn versions:set -DnewVersion=1.0.1" />
+      <command value="mvn clean compile assembly:single" />
+      <command value="mvn versions:set -DnewVersion=1.0.2" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NeuralNetwork">
+    <configuration name="NeuralNetwork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NeuralNetwork" />
+      <module name="NN_Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testing_ND4J" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Testing.Testing_ND4J" />
+      <module name="NN_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NeuralNetwork" />
+        <item itemvalue="Application.Testing_ND4J" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec036e58-e152-44e7-847c-7480b69a8761" name="Default Changelist" comment="" />
+      <created>1607189584056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607189584056</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1607627053702">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1607627053702" />
+    <state x="508" y="316" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607198993611">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="508" y="316" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1607198993611" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1608671774450">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608671774450" />
+    <state width="1398" height="164" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1608066533602" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1608671774447">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608671774447" />
+    <state width="1398" height="164" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1608066533588" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1608671774445">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608671774445" />
+    <state width="1398" height="164" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1608066533586" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1608671774448">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608671774448" />
+    <state width="1398" height="164" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1608066533600" />
+    <state width="1398" height="345" key="GridCell.Tab.1.bottom" timestamp="1607539866884">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="345" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607539866884" />
+    <state width="1398" height="345" key="GridCell.Tab.1.center" timestamp="1607539866876">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="345" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1607539866876" />
+    <state width="1398" height="345" key="GridCell.Tab.1.left" timestamp="1607539866874">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="345" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1607539866874" />
+    <state width="1398" height="345" key="GridCell.Tab.1.right" timestamp="1607539866878">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="345" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1607539866878" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1607627337577">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1607627337577" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1607280215558">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1607280215558" />
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1607189608212">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1607189608212" />
+    <state x="299" y="230" key="new project wizard" timestamp="1607276483137">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="299" y="230" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1607276483137" />
+    <state x="385" y="209" width="670" height="756" key="run.anything.popup" timestamp="1607631327863">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="209" width="670" height="756" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1607631327863" />
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.23.1440.804@0.23.1440.804" timestamp="1607280320654" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1607710651356">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1607710651356" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/NeuralNetwork.java</url>
+          <line>213</line>
+          <properties class="NeuralNetwork" method="loadWIH">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
